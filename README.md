@@ -29,6 +29,15 @@ This API provides endpoints for various task operations:
 
 Feel free to explore and integrate these endpoints into your application or use them in conjunction with other services.
 
+## Composer Installation
+
+Before running the API, ensure that you have Composer installed. If not, you can download and install it from [Composer's official website](https://getcomposer.org/download/).
+
+To install the necessary dependencies, navigate to the project's root directory in your terminal and execute:
+
+    composer install
+
+
 ## Documentation
 
 For detailed information on request and response formats, refer to the API documentation.
