@@ -37,6 +37,10 @@ To install the necessary dependencies, navigate to the project's root directory 
 
     composer install
 
+## Serve the project
+In order to make the project run and start listening to incoming requests
+    
+     php -S localhost:8000 -t public        
 
 ## Documentation
 
